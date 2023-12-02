@@ -17,4 +17,4 @@ Marital_Status,Product_Category_1,Product_Category_2,Product_Category_3,Purchase
 
 1. the dataset
 2. Analysis using python
-3. Hypothesis for the data
+3. Findings from the data
